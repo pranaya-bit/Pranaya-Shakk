@@ -1,0 +1,4 @@
+name = "Oran"
+age = "18"
+print ("Hello world")
+
